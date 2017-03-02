@@ -1,16 +1,16 @@
-typography_spectrum: 0.20472027640789747
+layout_spectrum: 0.06373983159108032
+typography_spectrum: 0.23848880515775026
 color:
-  brandStrength: 0.07841164246201515
-  lightness: 0.6021694364026189
-  saturation: 0.922961309319362
-  rhythmicContrast: 0.10513418493792415
+  brandStrength: 0.25846525026245576
+  lightness: 0.37731388666427296
+  saturation: 0.7586150989512738
+  rhythmicContrast: 0.3980143514430464
   brandColors:
     - '#105B63'
     - '#FFFAD5'
     - '#FFD34E'
     - '#DB9E36'
     - '#BD4932'
-layout_spectrum: 0.44560046028345823
 name: Seamster
 colors:
   brandColors:
