@@ -1,0 +1,60 @@
+typography_spectrum: 0.20472027640789747
+color:
+  brandStrength: 0.07841164246201515
+  lightness: 0.6021694364026189
+  saturation: 0.922961309319362
+  rhythmicContrast: 0.10513418493792415
+  brandColors:
+    - '#105B63'
+    - '#FFFAD5'
+    - '#FFD34E'
+    - '#DB9E36'
+    - '#BD4932'
+layout_spectrum: 0.44560046028345823
+name: Seamster
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: "friendsday.fi ♻️\uD83D\uDC97\uD83D\uDC56"
+    url: 'http://friendsday.fi/'
+    type: external
+  - name: "softfab.org \uD83D\uDCD0\uD83D\uDC55"
+    url: 'https://softfab.org/'
+    type: external
+  - name: seamster.club manifesto
+    id: aff43b26-e15b-4f9e-951d-831465eb0241
+    type: content
+title: SEAMSTER.CLUB
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/90cd9c54-0e57-43cf-8a4a-fea239ac42ce.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/90cd9c54-0e57-43cf-8a4a-fea239ac42ce.png
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: 'custom threads: meet your seamster, or diy'
+url: 'http://seamster.club'
+github: true
