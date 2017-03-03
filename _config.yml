@@ -1,24 +1,19 @@
+name: Seamster
 layout_spectrum: 0.06373983159108032
 typography_spectrum: 0.23848880515775026
 color:
-  brandStrength: 0.25846525026245576
-  lightness: 0.37731388666427296
-  saturation: 0.7586150989512738
-  rhythmicContrast: 0.3980143514430464
   brandColors:
     - '#105B63'
     - '#FFFAD5'
     - '#FFD34E'
     - '#DB9E36'
     - '#BD4932'
-name: Seamster
-colors:
-  brandColors:
-    - 'hsl(0,0%,100%)'
-    - 'hsl(0,0%,80%)'
-    - 'hsl(0,0%,60%)'
-    - 'hsl(0,0%,30%)'
-    - 'hsl(0,0%,20%)'
+  brandStrength: 0.25846525026245576
+  lightness: 0.37731388666427296
+  saturation: 0.7586150989512738
+  rhythmicContrast: 0.3980143514430464
+title: SEAMSTER.CLUB
+description: 'custom threads: meet your seamster, or diy'
 navigation:
   - name: "friendsday.fi ♻️\uD83D\uDC97\uD83D\uDC56"
     url: 'http://friendsday.fi/'
@@ -29,7 +24,6 @@ navigation:
   - name: seamster.club manifesto
     id: aff43b26-e15b-4f9e-951d-831465eb0241
     type: content
-title: SEAMSTER.CLUB
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -39,22 +33,17 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/90cd9c54-0e57-43cf-8a4a-fea239ac42ce.png
     metadata:
-      datePublished: null
-      keywords: []
-      related: []
-      author: []
-      '@context': 'http://schema.org'
       '@type': MediaObject
-      app_links: []
+      '@context': 'http://schema.org'
+      keywords: []
       publisher:
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
-        favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+      author: []
+      starred: false
       description: ''
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: 'custom threads: meet your seamster, or diy'
-url: 'http://thegrid.ai/seamster'
 github: true
